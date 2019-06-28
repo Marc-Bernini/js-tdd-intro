@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalizeFirstLetters.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marc-Bernini/js-tdd-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marc-Bernini/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/Marc-Bernini/js-tdd-intro#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
